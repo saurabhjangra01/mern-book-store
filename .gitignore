@@ -1,0 +1,8 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+/node_modules
+
+/backend/config.js
+/backend/node_modules
